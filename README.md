@@ -4,6 +4,9 @@
 
 ### Hi I'm Jim. 
 I love to experiment with code and food. Cr/eating is my zone  🍱 
+ 💠 Currently looking for a team that will push me to my next evolution, building great things and doing good along the way.  💠
+ If that's you, please feel free to reach me at [email](jimjnguy@gmail.com) 👹
+ (even if that's not you, I'm still down to meet interesting people 😈)
 
 ### I mostly use these tools:
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
