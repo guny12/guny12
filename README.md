@@ -3,6 +3,7 @@
   👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾 👾
 
 ### Hi I'm Jim. 
+I love to experiment with code and food. Cr/eating is my zone  🍱 
 
 ### I mostly use these tools:
 > <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
