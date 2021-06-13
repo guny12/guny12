@@ -5,7 +5,7 @@
 ### Hi I'm Jim. 
 I love to experiment with code and food. Cr/eating is my zone  🍱 
 
-#### 💠 Currently looking for a team that will push me to my next evolution, building great things and doing good along the way.  💠
+#### 💠 Currently looking for a team that will grow with me, building great things and doing good along the way.  💠
 #### If that's you, please feel free to reach me at [jimjnguy@gmail.com](mailto:jimjnguy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jim-nguy-b36b16ba/)
 (even if that's not you, I'm still down to meet interesting people 😈)
 
