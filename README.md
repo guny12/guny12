@@ -9,8 +9,8 @@ I love to experiment with code and food. Cr/eating is my zone  🍱
 #### If that's you, please feel free to reach me at [jimjnguy@gmail.com](mailto:jimjnguy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jim-nguy-b36b16ba/)
 (even if that's not you, I'm still down to meet interesting people 😈)
 
-### I mostly use these tools:
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+### I mostly use these:
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
